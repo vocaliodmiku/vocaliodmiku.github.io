@@ -1,4 +1,4 @@
-baseURL = "https://github.com/vocaliodmiku.github.io"
+baseURL = "https://vocaliodmiku.github.io/"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-123123-12"
