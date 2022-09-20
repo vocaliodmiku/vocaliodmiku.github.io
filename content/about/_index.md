@@ -16,7 +16,7 @@ socials:
     # facebook: "YOUR_NAME"
     # linkedin: "YOUR_NAME"
     # twitch: "YOUR_NAME"
-    google_scholar: "YOUR_NAME"
+    google_scholar: "https://scholar.google.com/citations?hl=zh-CN&user=v8G7pHoAAAAJ"
 
 interests:
     - Speech Perception
