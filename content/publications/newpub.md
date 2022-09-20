@@ -1,17 +1,17 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "A Study on Fine-Tuning wav2vec2. 0 Model for the Task of Mispronunciation Detection and Diagnosis."
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- L Peng
+- K Fu
+- B Lin
+- D Ke
+- J Zhang
 
-publication: "Journal of Machine Learning"
+publication: "Interspeech 2021."
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2021/peng21e_interspeech.pdf
+    code: https://github.com/vocaliodmiku/wav2vec2mdd
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Quisque: Lime Trout Sheepdog"
+title: "Self-supervised pretraining technology for multi-model processing"
 
-date: "2018-05-18"
+date: "2022-08-01"
 
 links:
     website: 'https://github.com/hadisinaee/avicenna'

@@ -1,17 +1,19 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Text-Aware End-to-end Mispronunciation Detection and Diagnosis"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- L Peng
+- Y Gao
+- B Lin
+- D Ke
+- Y Xie
+- J Zhang
 
-publication: "Journal of Machine Learning"
+date: "2022"
+
+publication: "Preprint 2022."
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
-
+    pdf: https://arxiv.org/pdf/2206.07289.pdf
+    code: https://github.com/vocaliodmiku/wav2vec2mdd-Text
 ---
 

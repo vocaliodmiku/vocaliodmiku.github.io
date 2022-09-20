@@ -8,7 +8,7 @@ full_name: "PENG LINKAI"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: true
+blog: false
 
 socials:
     # twitter: "YOUR_NAME"
@@ -16,13 +16,13 @@ socials:
     # facebook: "YOUR_NAME"
     # linkedin: "YOUR_NAME"
     # twitch: "YOUR_NAME"
-    google_scholar: "https://scholar.google.com/citations?hl=zh-CN&user=v8G7pHoAAAAJ"
+    google_scholar: "citations?user=v8G7pHoAAAAJ"
 
 interests:
-    - Speech Perception
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Automatic Speech Recognition
+    - Computer-Assisted Pronunciation Training (CAPT) 
+    - Speech Production and Comprehension
+    - Multimodal analysis of Audio-Lexical content
 
 affiliations:
     - affiliation:
@@ -37,13 +37,13 @@ academia:
         major: 'Software Engineering'
         start_date: '2019'
         end_date: '2022'
-        other_info: 'graduated with Outstanding Graduate Paper Award, supervised by Prof. Jinsong Zhang!'
+        other_info: 'graduated with Outstanding Graduation Dissertation Award, supervised by Prof. Jinsong Zhang!'
     - course:
         degree: "B.Sc."
         institution: 'South China Normal University'
         major: 'Physics'
-        start_date: '2019'
-        end_date: '2015'
+        start_date: '2015'
+        end_date: '2019'
 ---
 
 **Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.

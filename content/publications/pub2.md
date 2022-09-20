@@ -1,15 +1,12 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Multi-scale model for mandarin tone recognition"
 authors:
-- Your Full Name
-- Author Name
-date: "2016-09-01"
+- L Peng
+- W Dai
+- D Ke
+- J Zhang
+date: "2021"
 
-publication: "Journal of Machine Learning"
+publication: "ISCSLP 2021"
 
-links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
 ---
