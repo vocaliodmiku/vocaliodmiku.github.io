@@ -4,15 +4,26 @@
 {{ $rscPages := $t.Resources.ByType "page"}}
 
 {{if gt (len $rscPages) 0}}
+  
 <div class="projects row w-100">
     <div class="col w-100">
         {{range $page := sort $rscPages "Params.date" "desc"}}
         <div class="project row w-100">
             <div class="section-1 w-100">
-                <span class="project-title">
+                <span class="project-title" style="font-weight:600">
                     {{$page.Params.title}}
                 </span>
             </div>
+            <section style="margin-top:1%;display:flex;">
+                <div class="left-half">
+                    <img style="width:150px;height:150px;float:left;margin-right:2em;" src="{{$page.Params.image}}"></img> 
+                </div>
+                <div class="right-half">
+                    <p style="margin-left:2px;font-size:small;">
+                        {{$page.Params.content}}
+                    </p>
+                </div>
+            </section>
 
             {{ $links := $page.Params.links }}
             {{ if $links }}

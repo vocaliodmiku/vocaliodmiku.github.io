@@ -271,3 +271,29 @@ h2 code {
 .read_more {
     margin-top: 1%;
 }
+
+.html, body, section {
+    height: 80%;
+}
+.body {
+    color: white;
+    text-align: center;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.h1 {
+    font-size: 25px;
+}
+.container {
+    margin-top: 10%;
+    display: flex;
+}
+.left-half {
+    flex: 1;
+}
+.right-half {
+    flex: 1;
+}

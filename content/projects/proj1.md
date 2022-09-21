@@ -5,6 +5,5 @@ date: "2022-08-01"
 
 links:
     website: 'https://github.com/hadisinaee/avicenna'
-    alias: link_name_here
 ---
 
