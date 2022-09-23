@@ -19,7 +19,7 @@ socials:
     google_scholar: "citations?user=v8G7pHoAAAAJ"
 
 interests:
-    - Automatic Speech Recognition
+    - Automatic Speech Recognition (ASR)
     - Computer-Assisted Pronunciation Training (CAPT) 
     - Speech Production and Comprehension
     - Multimodal analysis of Audio-Lexical content
@@ -46,10 +46,6 @@ academia:
         end_date: '2019'
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+Hi, this is Linkai Peng. I am an ML engineer @ NetEase YouDao. I am passionate about using cutting-edge ML technologies to boost the spoken Human-Computer Interaction system. A central focus of my current work is developing self-supervised neural networks to improve our ASR related [industry products][1], including ASR, CAPT. I also have an interest in analyses that lie at cross-language perception and production, e.g. the comprehension of L2 speech.
 
-
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
-
-
-[1]: ahadsfsa.com
+[1]: https://smart.youdao.com/en/

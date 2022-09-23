@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "[NetEase YouDao](https://www.youdao.com/), full-time Artificial Intelligence Engineer"
+- text: "NetEase YouDao, full-time Artificial Intelligence Engineer"
   extra_text: "April 2022 - Now."
 - text: "ByteDance AI-Lab, Speech Technology Research Intern"
   extra_text: "November. 2020 - February. 2021"
