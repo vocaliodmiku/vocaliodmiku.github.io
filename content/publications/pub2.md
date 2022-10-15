@@ -1,10 +1,10 @@
 ---
 title: "Multi-scale model for mandarin tone recognition"
 authors:
-- L Peng
-- W Dai
-- D Ke
-- J Zhang
+- Linkai Peng
+- Wang Dai
+- Dengfeng Ke
+- Jinsong Zhang
 date: "2021"
 
 publication: "ISCSLP 2021"

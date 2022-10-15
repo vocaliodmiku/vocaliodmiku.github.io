@@ -46,56 +46,40 @@
         {{ $linkedin := index $aboutPage.Params.socials "linkedin"}}
         {{ $cv := $aboutPage.Params.cv }}
         {{ $blog := $aboutPage.Params.blog}}
+        {{ $researchgate := index $aboutPage.Params.socials "researchgate" }}
 
+
+        {{if $researchgate}}
+        <a href='{{$researchgate}}' target="_blank">
+            <div class="main_color dates col-md-auto justify-content-end" font-size=>
+                Research Gate
+            </div>
+        </a>
+        {{end}}
 
         {{if $google_scholar}}
-        <a class="main_color" rel="me" href='https://scholar.google.com/{{$google_scholar}}' target="_blank">
-            <i class="ai ai-2x ai-google-scholar academic_icons_customize"></i>
+        <a href='{{$google_scholar}}' target="_blank">
+            <div class="main_color dates col-md-auto justify-content-end" font-size=>
+                Google Scholar
+            </div>
         </a>
         {{end}}
 
-        {{ if $github }}
-        <a class="main_color" rel="me" href='https://github.com/{{$github}}' target="_blank">
-            <i data-feather="github"></i>
+        {{if $google_scholar}}
+        <a href='{{$github}}' target="_blank">
+            <div class="main_color dates col-md-auto justify-content-end" font-size=>
+                Github
+            </div>
         </a>
         {{end}}
 
-        {{ if $twitter }}
-        <a class="main_color" rel="me" href='https://twitter.com/{{$twitter}}' target="_blank">
-            <i data-feather="twitter"></i>
+        {{if $google_scholar}}
+        <a href='{{$cv}}' target="_blank">
+            <div class="main_color dates col-md-auto justify-content-end" font-size=>
+                CV
+            </div>
         </a>
         {{end}}
-
-        {{ if $facebook }}
-        <a class="main_color" rel="me" href='https://facebook.com/{{$facebook}}' target="_blank">
-            <i data-feather="facebook"></i>
-        </a>
-        {{end}}
-
-        {{ if $linkedin }}
-        <a class="main_color" rel="me" href='https://linkedin.com/in/{{$linkedin}}' target="_blank">
-            <i data-feather="linkedin"></i>
-        </a>
-        {{end}}
-
-        {{ if $twitch }}
-        <a class="main_color" rel="me" href='https://twitch.com/{{$twitch}}' target="_blank">
-            <i data-feather="twitch"></i>
-        </a>
-        {{end}}
-
-        {{if $cv}}
-        <a class="main_color" href='{{$cv}}' target="_blank">
-            <i class="ai ai-2x ai-cv academic_icons_customize"></i>
-        </a>
-        {{end}}
-
-        {{ if $blog }}
-        <a id="blog_logo" class="main_color" href='/blog' target="_blank">
-            <i class="ai ai-2x ai-blog academic_icons_customize">Blog</i>
-
-        </a>
-        {{ end }}
 
 
     </div>

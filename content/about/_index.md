@@ -15,8 +15,8 @@ socials:
     github: "https://github.com/vocaliodmiku"
     # facebook: "YOUR_NAME"
     # linkedin: "YOUR_NAME"
-    # twitch: "YOUR_NAME"
-    google_scholar: "citations?user=v8G7pHoAAAAJ"
+    researchgate: "https://www.researchgate.net/profile/Peng-Linkai-3"
+    google_scholar: "https://scholar.google.com/citations?user=v8G7pHoAAAAJ"
 
 interests:
     - Automatic Speech Recognition (ASR)

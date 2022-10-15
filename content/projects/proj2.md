@@ -3,7 +3,5 @@ title: "Toward fine-grained feedback for Mispronunciation Detection and Diagnosi
 
 date: "2019-03-30"
 
-links:
-    website: 'https://github.com/hadisinaee/avicenna'
 ---
 

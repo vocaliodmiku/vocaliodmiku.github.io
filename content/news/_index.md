@@ -6,7 +6,7 @@ headless: true
 
 # all icons by [feathericons.com](https://https://feathericons.com//) are supported
 show_news_icons: true
-default_news_icon: "file-text"
+default_news_icon: "briefcase"
 
 num_news: 5
 

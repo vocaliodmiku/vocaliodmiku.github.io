@@ -91,7 +91,7 @@ h2 code {
 }
 
 .about .socials {
-    font-size: small;
+    font-size: large;
     margin-bottom: 1%;
     margin-top: 1%;
 }
@@ -288,12 +288,5 @@ h2 code {
     font-size: 25px;
 }
 .container {
-    margin-top: 10%;
     display: flex;
-}
-.left-half {
-    flex: 1;
-}
-.right-half {
-    flex: 1;
 }

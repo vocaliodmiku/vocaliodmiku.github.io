@@ -1,12 +1,12 @@
 ---
 title: "Text-Aware End-to-end Mispronunciation Detection and Diagnosis"
 authors:
-- L Peng
-- Y Gao
-- B Lin
-- D Ke
-- Y Xie
-- J Zhang
+- Linkai Peng
+- Yingming Gao
+- Binghuai Lin
+- Dengfeng Ke
+- Yanlu Xie
+- Jinsong Zhang
 
 date: "2022"
 
