@@ -21,7 +21,7 @@ socials:
 interests:
     - Automatic Speech Recognition (ASR)
     - Computer-Assisted Pronunciation Training (CAPT) 
-    - Speech Production and Comprehension
+    - Speech Comprehension
     - Multimodal analysis of Audio-Lexical content
 
 affiliations:
