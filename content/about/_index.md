@@ -6,7 +6,7 @@ headless: true
 
 full_name: "PENG LINKAI"
 profile_picture: "profile.png"
-cv: "cv.pdf"
+cv: "LinkaiPeng.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
