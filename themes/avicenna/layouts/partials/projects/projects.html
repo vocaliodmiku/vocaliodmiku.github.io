@@ -15,9 +15,11 @@
                 </span>
             </div>
             <section style="margin-top:1%;display:flex;">
-                    <img style="width:150px;height:150px;float:left;margin-right:2em;" src="{{$page.Params.image}}"></img> 
+                    <img style="float:left;margin-right:2em;" width="{{$page.Params.width}}" height="{{$page.Params.height}}" src="{{$page.Params.image}}"></img> 
                     <p style="margin-left:2px;font-size:small;">
-                        {{$page.Params.content}}
+                        {{ markdownify $page.Params.content }} </br>
+                        {{ markdownify $page.Params.contenta}} </br>
+                        {{ markdownify $page.Params.contentb}}
                     </p>
 
             </section>
