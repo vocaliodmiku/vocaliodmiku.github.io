@@ -28,7 +28,7 @@ affiliations:
     - affiliation:
         title: "Artificial Intelligence Engineer"
         name: "NetEase"
-        email: "penglk@rd.netease.com | penglinkai96@gmail.com"
+        email: "penglinkai@corp.netease.com | penglinkai96@gmail.com"
 
 academia:
     - course:
