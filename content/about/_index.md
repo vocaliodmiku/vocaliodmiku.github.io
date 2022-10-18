@@ -26,7 +26,7 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Artificial Intelligence Engineer"
+        title: "Applied Scientist"
         name: "NetEase"
         email: "penglinkai@corp.netease.com | penglinkai96@gmail.com"
 
