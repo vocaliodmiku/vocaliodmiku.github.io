@@ -12,6 +12,7 @@ publication: "Interspeech 2021."
 links:
     pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2021/peng21e_interspeech.pdf
     code: https://github.com/vocaliodmiku/wav2vec2mdd
+    slides: "slides/interspeech2021-ppt.pdf"
 
 ---
 
