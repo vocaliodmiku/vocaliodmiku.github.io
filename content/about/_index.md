@@ -19,10 +19,11 @@ socials:
     google_scholar: "https://scholar.google.com/citations?user=v8G7pHoAAAAJ"
 
 interests:
+    - Conversational AI & Voice Technology
+    - Speech analytics in education, health.
     - Automatic Speech Recognition (ASR)
-    - Computer-Assisted Pronunciation Training (CAPT) 
-    - Speech Comprehension
-    - Multimodal analysis of Audio-Lexical content
+    - Computer-Assisted Pronunciation Training (CAPT)
+    - Multimodal analysis
 
 affiliations:
     - affiliation:
@@ -46,6 +47,6 @@ academia:
         end_date: '2019'
 ---
 
-Hi, this is Linkai Peng. I am an ML engineer @ NetEase YouDao. I am passionate about using cutting-edge ML technologies to boost the spoken Human-Computer Interaction system. A central focus of my current work is developing self-supervised neural networks to improve our ASR related [industry products][1], including ASR, CAPT. I also have an interest in analyses that lie in cross-language perception and production, e.g. the comprehension of L2 speech.
+Hi, this is Linkai Peng. I am an ML engineer @ NetEase YouDao. I am passionate about using cutting-edge ML technologies to boost the spoken Human-Computer Interaction system. A central focus of my current work is developing self-supervised neural networks to improve our ASR related [industry products][1], including ASR, CAPT. I interest in Conversational AI & Voice Technology.
 
 [1]: https://smart.youdao.com/en/
