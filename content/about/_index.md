@@ -47,6 +47,6 @@ academia:
         end_date: '2019'
 ---
 
-Hi, this is Linkai Peng. I am an ML engineer @ NetEase YouDao. I am passionate about using cutting-edge ML technologies to boost the spoken Human-Computer Interaction system. A central focus of my current work is developing self-supervised neural networks to improve our ASR related [industry products][1], including ASR, CAPT. I interest in Conversational AI & Voice Technology.
+Hi, this is Linkai Peng. I am an ML engineer @ NetEase YouDao. I am passionate about using cutting-edge ML technologies to boost the spoken Human-Computer Interaction system. A central focus of my current work is developing self-supervised neural networks to improve our ASR related [industry products][1], including ASR, CAPT, VAD and KWS. I interest in Conversational AI & Voice Technology.
 
 [1]: https://smart.youdao.com/en/
