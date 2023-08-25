@@ -27,7 +27,7 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Applied Scientist"
+        title: "Machine Learning Engineer"
         name: "NetEase"
         email: "penglinkai@corp.netease.com | penglinkai96@gmail.com"
 
