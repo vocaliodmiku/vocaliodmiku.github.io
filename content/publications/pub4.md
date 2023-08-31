@@ -1,13 +1,15 @@
 ---
-title: "The Contribution of Phonological and Fluency Factors to Chinese L2 Comprehensibility Ratings: A Case Study of Urdu-speaking Learners."
+title: "Multi-scale model for mandarin tone recognition"
 authors:
-- Rian Bao
 - Linkai Peng
-- Gingming Gao
+- Wang Dai
+- Dengfeng Ke
 - Jinsong Zhang
 date: "2021"
 
 publication: "ISCSLP 2021"
-links:
-    pdf: https://boroooo.github.io/pdfs/Contribution_RianBao.pdf
+links: 
+    pdf: "pdfs/peng2021.pdf"
+    slides: "slides/ISCSLP2021.pdf"
+
 ---

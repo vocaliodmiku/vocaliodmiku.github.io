@@ -1,14 +1,19 @@
 ---
-title: "An Exploratory Study for Quantifying the Contextual Information for Successful Chinese L2 Speech Comprehension."
+title: "Text-Aware End-to-end Mispronunciation Detection and Diagnosis"
 authors:
-- Rian Bao
 - Linkai Peng
-- Yuchen Yan
+- Yingming Gao
+- Binghuai Lin
+- Dengfeng Ke
+- Yanlu Xie
 - Jinsong Zhang
-date: "2019"
 
-publication: "ISCSLP 2022"
+date: "2022"
+
+publication: "Preprint 2022."
+
 links:
-    pdf: https://boroooo.github.io/pdfs/Exploratory_RianBao.pdf
-    
+    pdf: https://arxiv.org/pdf/2206.07289.pdf
+    code: https://github.com/vocaliodmiku/wav2vec2mdd-Text
 ---
+

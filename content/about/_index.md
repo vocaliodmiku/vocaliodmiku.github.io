@@ -21,7 +21,6 @@ socials:
 interests:
     - Conversational AI & Voice Technology
     - Computer-Assisted Pronunciation Training (CAPT)
-    - Speech analytics in education, health.
     - Automatic Speech Recognition (ASR)
     - Multimodal analysis
 

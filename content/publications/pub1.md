@@ -1,19 +1,18 @@
 ---
-title: "Text-Aware End-to-end Mispronunciation Detection and Diagnosis"
+title: "Spoken Language Intelligence of Large Language Models for Language Learning."
 authors:
 - Linkai Peng
+- Baorian Nuchged
 - Yingming Gao
-- Binghuai Lin
-- Dengfeng Ke
-- Yanlu Xie
-- Jinsong Zhang
 
-date: "2022"
-
-publication: "Preprint 2022."
+publication: "Arxiv."
 
 links:
-    pdf: https://arxiv.org/pdf/2206.07289.pdf
-    code: https://github.com/vocaliodmiku/wav2vec2mdd-Text
+    arxiv: https://arxiv.org/pdf/2308.14536.pdf
+    code: https://github.com/vocaliodmiku/SLI-LL
+    website: https://vocaliodmiku.github.io/SLI-LL
+
 ---
 
+
+[See the wiki page for tutorial!](https://github.com/hadisinaee/avicenna/wiki)
