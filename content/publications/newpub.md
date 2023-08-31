@@ -5,7 +5,7 @@ authors:
 - Baorian Nuchged
 - Yingming Gao
 
-publication: "Arxiv."
+publication: "Arxiv, Aug 2023."
 
 links:
     arxiv: https://arxiv.org/pdf/2308.14536.pdf
