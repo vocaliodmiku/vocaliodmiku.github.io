@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 220" width="680" height="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+<style>
+.a{animation-duration:10s;animation-iteration-count:infinite;animation-delay:0s;animation-timing-function:linear}
+.w0{animation-name:kw0}
+@keyframes kw0{0.0%{fill-opacity:0}4.0%{fill-opacity:0}5.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w1{animation-name:kw1}
+@keyframes kw1{0.0%{fill-opacity:0}6.5%{fill-opacity:0}8.0%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w2{animation-name:kw2}
+@keyframes kw2{0.0%{fill-opacity:0}9.0%{fill-opacity:0}10.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w3{animation-name:kw3}
+@keyframes kw3{0.0%{fill-opacity:0}11.5%{fill-opacity:0}13.0%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w4{animation-name:kw4}
+@keyframes kw4{0.0%{fill-opacity:0}15.0%{fill-opacity:0}16.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w5{animation-name:kw5}
+@keyframes kw5{0.0%{fill-opacity:0}17.0%{fill-opacity:0}18.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w6{animation-name:kw6}
+@keyframes kw6{0.0%{fill-opacity:0}23.0%{fill-opacity:0}24.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w7{animation-name:kw7}
+@keyframes kw7{0.0%{fill-opacity:0}26.0%{fill-opacity:0}27.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w8{animation-name:kw8}
+@keyframes kw8{0.0%{fill-opacity:0}28.0%{fill-opacity:0}29.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w9{animation-name:kw9}
+@keyframes kw9{0.0%{fill-opacity:0}30.0%{fill-opacity:0}31.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w10{animation-name:kw10}
+@keyframes kw10{0.0%{fill-opacity:0}33.0%{fill-opacity:0}34.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w11{animation-name:kw11}
+@keyframes kw11{0.0%{fill-opacity:0}35.5%{fill-opacity:0}37.0%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.w12{animation-name:kw12}
+@keyframes kw12{0.0%{fill-opacity:0}38.0%{fill-opacity:0}39.5%{fill-opacity:1}92.0%{fill-opacity:1}97.0%{fill-opacity:0}100.0%{fill-opacity:0}}
+.pop{animation-name:kpop;transform-box:fill-box;transform-origin:left center}
+@keyframes kpop{0.0%{opacity:0;transform:scale(0.92)}17.0%{opacity:0;transform:scale(0.92)}20.0%{opacity:1;transform:scale(1)}92.0%{opacity:1;transform:scale(1)}97.0%{opacity:0;transform:scale(1)}100.0%{opacity:0;transform:scale(0.92)}}
+.silent{animation-name:ksilent}
+@keyframes ksilent{0.0%{opacity:0}24.0%{opacity:0}29.0%{opacity:1}92.0%{opacity:1}97.0%{opacity:0}100.0%{opacity:0}}
+.spark{animation-name:kspark}
+@keyframes kspark{0.0%{opacity:0}11.5%{opacity:0}11.5%{opacity:1}15.5%{opacity:0.4}19.5%{opacity:1}23.5%{opacity:0.4}27.5%{opacity:1}30.0%{opacity:1}92.0%{opacity:1}97.0%{opacity:0}100.0%{opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<rect width="680" height="220" fill="#fff"/>
+<line x1="340" y1="100" x2="340" y2="210" stroke="#e6e8eb" stroke-width="1"/>
+<g transform="translate(1.2,-9.4) scale(.7)"><path d="M24 132 Q24 105 44 104 Q64 105 64 132 Z" fill="#f2c27b"/><circle cx="44" cy="88" r="16" fill="#f6d5b8" stroke="#2b2f33" stroke-width="1.2"/><path d="M28.4 86 A16 16 0 0 1 59.6 83 Q51 77 43 82 Q35 86 28.4 86 Z" fill="#6b4a2b"/><circle cx="45" cy="95" r="3.2" fill="#f4a6a0" opacity=".6"/><circle cx="49" cy="89" r="1.7" fill="#2b2220"/><circle cx="57.5" cy="89" r="1.7" fill="#2b2220"/><ellipse cx="53.5" cy="97" rx="2.3" ry="2.8" fill="#c0504d"/></g>
+<path d="M64 57.0 L56 62.0 L64 67.0 Z" fill="#f7f9fb" stroke="#dfe4ea" stroke-width="1" stroke-linejoin="round"/><rect x="64" y="40" width="604" height="44" rx="16" fill="#f7f9fb" stroke="#dfe4ea" stroke-width="1"/><rect x="63.4" y="57.6" width="2.2" height="8.8" fill="#f7f9fb"/>
+<text x="82" y="68" font-size="15" fill="#2b2f33" xml:space="preserve"><tspan class="a w0">The </tspan><tspan class="a w1">charger </tspan><tspan class="a w2">is </tspan><tspan class="a w3" fill="#d55e00" font-weight="600">sparking</tspan><tspan class="a w4"> a </tspan><tspan class="a w5">bit — </tspan><tspan class="a w6">anyway, </tspan><tspan class="a w7">I </tspan><tspan class="a w8">was </tspan><tspan class="a w9">thinking </tspan><tspan class="a w10">about </tspan><tspan class="a w11">dinner </tspan><tspan class="a w12">tonight…</tspan></text>
+<g class="a spark"><g transform="translate(-14.7,-18.4) scale(.8)"><rect x="276" y="48" width="18" height="14" rx="4" fill="#fff" stroke="#9aa0a6" stroke-width="1.5"/><line x1="281" y1="48" x2="281" y2="43" stroke="#9aa0a6" stroke-width="1.8" stroke-linecap="round"/><line x1="289" y1="48" x2="289" y2="43" stroke="#9aa0a6" stroke-width="1.8" stroke-linecap="round"/><g fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M270 44 L274 49 L270 52 L274 57" stroke="#f2b84b"/><path d="M298 42 L294 47 L299 50 L295 55" stroke="#d55e00"/><path d="M285 40 L283 35 L287 33" stroke="#f2b84b"/></g></g></g>
+<text x="24" y="114" font-size="13" font-weight="600" fill="#333">Ideal model</text>
+<g transform="translate(13.2,14.7) scale(.7)"><line x1="44" y1="198" x2="44" y2="193" stroke="#f2b84b" stroke-width="1.8" stroke-linecap="round"/><circle cx="44" cy="190.5" r="3.2" fill="#f2b84b"/><circle cx="27" cy="212" r="3.5" fill="#2f7fa6"/><circle cx="61" cy="212" r="3.5" fill="#2f7fa6"/><path d="M57 235 Q64 238 64 245" fill="none" stroke="#2f7fa6" stroke-width="3.5" stroke-linecap="round"/><circle cx="64" cy="247" r="3.5" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><path d="M31 235 Q24 238 24 245" fill="none" stroke="#2f7fa6" stroke-width="3.5" stroke-linecap="round"/><circle cx="24" cy="247" r="3.5" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><rect x="31" y="229" width="26" height="21" rx="8" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><g stroke="#2f7fa6" stroke-width="1.8" stroke-linecap="round"><line x1="38" y1="237" x2="38" y2="242"/><line x1="44" y1="234" x2="44" y2="245"/><line x1="50" y1="237" x2="50" y2="242"/></g><rect x="27" y="198" width="34" height="28" rx="10" fill="#eef6fa" stroke="#2f7fa6" stroke-width="1.5"/><rect x="31" y="202" width="26" height="20" rx="7" fill="#1d3f52"/><g fill="none" stroke="#7fd3f7" stroke-width="1.8" stroke-linecap="round"><path d="M36 212 Q39 207 42 212"/><path d="M46 212 Q49 207 52 212"/><path d="M41 216.5 Q44 219.5 47 216.5" stroke-width="1.4"/></g><circle cx="34.5" cy="217" r="2.4" fill="#f4a6a0" opacity=".6"/><circle cx="53.5" cy="217" r="2.4" fill="#f4a6a0" opacity=".6"/></g>
+<g class="a pop"><path d="M76 162.0 L68 167.0 L76 172.0 Z" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.2" stroke-linejoin="round"/><rect x="76" y="146" width="140" height="42" rx="14" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.2"/><rect x="75.4" y="162.6" width="2.2" height="8.8" fill="#e6f0f5"/><text x="92" y="173" font-size="15" font-weight="600" fill="#b3261e">Unplug it now!</text></g>
+<text x="364" y="114" font-size="13" font-weight="600" fill="#333">Current model</text>
+<g transform="translate(353.2,14.7) scale(.7)"><line x1="44" y1="198" x2="44" y2="193" stroke="#f2b84b" stroke-width="1.8" stroke-linecap="round"/><circle cx="44" cy="190.5" r="3.2" fill="#f2b84b"/><circle cx="27" cy="212" r="3.5" fill="#2f7fa6"/><circle cx="61" cy="212" r="3.5" fill="#2f7fa6"/><path d="M57 235 Q64 238 64 245" fill="none" stroke="#2f7fa6" stroke-width="3.5" stroke-linecap="round"/><circle cx="64" cy="247" r="3.5" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><path d="M31 235 Q24 238 24 245" fill="none" stroke="#2f7fa6" stroke-width="3.5" stroke-linecap="round"/><circle cx="24" cy="247" r="3.5" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><rect x="31" y="229" width="26" height="21" rx="8" fill="#e6f0f5" stroke="#2f7fa6" stroke-width="1.5"/><g stroke="#2f7fa6" stroke-width="1.8" stroke-linecap="round"><line x1="38" y1="237" x2="38" y2="242"/><line x1="44" y1="234" x2="44" y2="245"/><line x1="50" y1="237" x2="50" y2="242"/></g><rect x="27" y="198" width="34" height="28" rx="10" fill="#eef6fa" stroke="#2f7fa6" stroke-width="1.5"/><rect x="31" y="202" width="26" height="20" rx="7" fill="#1d3f52"/><g fill="none" stroke="#7fd3f7" stroke-width="1.8" stroke-linecap="round"><path d="M36 212 Q39 207 42 212"/><path d="M46 212 Q49 207 52 212"/><path d="M41 216.5 Q44 219.5 47 216.5" stroke-width="1.4"/></g><circle cx="34.5" cy="217" r="2.4" fill="#f4a6a0" opacity=".6"/><circle cx="53.5" cy="217" r="2.4" fill="#f4a6a0" opacity=".6"/></g>
+<g class="a silent"><path d="M416 162.0 L408 167.0 L416 172.0 Z" fill="none" stroke="#c4c9ce" stroke-width="1.2" stroke-dasharray="5 4" stroke-linejoin="round"/><rect x="416" y="146" width="140" height="42" rx="14" fill="none" stroke="#c4c9ce" stroke-width="1.2" stroke-dasharray="5 4"/><rect x="415.4" y="162.6" width="2.2" height="8.8" fill="#fff"/><text x="432" y="173" font-size="14" font-style="italic" fill="#9aa0a6">(silent)</text></g>
+</svg>

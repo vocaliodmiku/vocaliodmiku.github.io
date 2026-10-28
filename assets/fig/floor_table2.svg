@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" width="680" height="330" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+<rect width="680" height="330" fill="#fff"/>
+<rect x="338" y="40" width="220" height="280" rx="8" fill="rgb(213,94,0)" fill-opacity=".05" stroke="rgb(213,94,0)" stroke-width="1.5" stroke-opacity=".55"/>
+<text x="8" y="22" font-size="14" font-weight="600" fill="#333">Speech-onset rate after each trigger</text>
+<line x1="8" y1="34" x2="672" y2="34" stroke="#333" stroke-width="1.2"/>
+<text x="252.0" y="54" font-size="13" font-weight="700" text-anchor="middle" fill="rgb(60,60,160)">Addressed</text>
+<line x1="174" y1="61" x2="330" y2="61" stroke="rgb(60,60,160)" stroke-width="1.5"/>
+<text x="448.0" y="54" font-size="13" font-weight="700" text-anchor="middle" fill="rgb(213,94,0)">Self-select</text>
+<line x1="342" y1="61" x2="554" y2="61" stroke="rgb(213,94,0)" stroke-width="1.5"/>
+<text x="616.0" y="54" font-size="13" font-weight="700" text-anchor="middle" fill="rgb(0,158,115)">Yield</text>
+<line x1="566" y1="61" x2="666" y2="61" stroke="rgb(0,158,115)" stroke-width="1.5"/>
+<text x="140" y="85" font-size="12" text-anchor="middle" fill="#555">Neutral</text>
+<text x="196" y="85" font-size="12" text-anchor="middle" fill="#555">Question</text>
+<text x="252" y="85" font-size="12" text-anchor="middle" fill="#555">Request</text>
+<text x="308" y="85" font-size="12" text-anchor="middle" fill="#555">Rhetorical</text>
+<text x="364" y="78" font-size="12" text-anchor="middle" fill="#555">Word</text><text x="364" y="92" font-size="12" text-anchor="middle" fill="#555">search</text>
+<text x="420" y="78" font-size="12" text-anchor="middle" fill="#555">False</text><text x="420" y="92" font-size="12" text-anchor="middle" fill="#555">fact</text>
+<text x="476" y="85" font-size="12" text-anchor="middle" fill="#555">Repeat</text>
+<text x="532" y="85" font-size="12" text-anchor="middle" fill="#555">Hazard</text>
+<text x="588" y="78" font-size="12" text-anchor="middle" fill="#555">Turn</text><text x="588" y="92" font-size="12" text-anchor="middle" fill="#555">end</text>
+<text x="644" y="85" font-size="12" text-anchor="middle" fill="#555">Silence</text>
+<line x1="8" y1="100" x2="672" y2="100" stroke="#333" stroke-width=".8"/>
+<text x="10" y="122" font-size="13" fill="#333">Moshi</text>
+<rect x="115" y="105" width="50" height="24" rx="4" fill="rgb(110,110,110)" fill-opacity="0.05"/>
+<text x="140" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.07</text>
+<rect x="171" y="105" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.12"/>
+<text x="196" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.15</text>
+<rect x="227" y="105" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.12"/>
+<text x="252" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.17</text>
+<rect x="283" y="105" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.08"/>
+<text x="308" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.10</text>
+<rect x="339" y="105" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.06"/>
+<text x="364" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.08</text>
+<rect x="395" y="105" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.06"/>
+<text x="420" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.08</text>
+<rect x="451" y="105" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.07"/>
+<text x="476" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.10</text>
+<rect x="507" y="105" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.06"/>
+<text x="532" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.08</text>
+<rect x="563" y="105" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.05"/>
+<text x="588" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.07</text>
+<rect x="619" y="105" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.09"/>
+<text x="644" y="122" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.12</text>
+<text x="10" y="152" font-size="13" fill="#333">Moshika-RL</text>
+<rect x="115" y="135" width="50" height="24" rx="4" fill="rgb(110,110,110)" fill-opacity="0.02"/>
+<text x="140" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.03</text>
+<rect x="171" y="135" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.11"/>
+<text x="196" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.15</text>
+<rect x="227" y="135" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.04"/>
+<text x="252" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.06</text>
+<rect x="283" y="135" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.03"/>
+<text x="308" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.04</text>
+<rect x="339" y="135" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.03"/>
+<text x="364" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.04</text>
+<text x="420" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<rect x="451" y="135" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.02"/>
+<text x="476" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.03</text>
+<rect x="507" y="135" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.01"/>
+<text x="532" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<rect x="563" y="135" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.03"/>
+<text x="588" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.04</text>
+<rect x="619" y="135" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.14"/>
+<text x="644" y="152" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.18</text>
+<line x1="8" y1="162" x2="672" y2="162" stroke="#e3e5e8" stroke-width="1"/>
+<text x="10" y="182" font-size="13" fill="#333">PPlex</text>
+<rect x="115" y="165" width="50" height="24" rx="4" fill="rgb(110,110,110)" fill-opacity="0.08"/>
+<text x="140" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.10</text>
+<rect x="171" y="165" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.26"/>
+<text x="196" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.34</text>
+<rect x="227" y="165" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.18"/>
+<text x="252" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.24</text>
+<rect x="283" y="165" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.08"/>
+<text x="308" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.10</text>
+<rect x="339" y="165" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.16"/>
+<text x="364" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.22</text>
+<rect x="395" y="165" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.05"/>
+<text x="420" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.07</text>
+<rect x="451" y="165" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.11"/>
+<text x="476" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.14</text>
+<rect x="507" y="165" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.11"/>
+<text x="532" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.14</text>
+<rect x="563" y="165" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.12"/>
+<text x="588" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.17</text>
+<rect x="619" y="165" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.63"/>
+<text x="644" y="182" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.83</text>
+<text x="10" y="212" font-size="13" fill="#333">PPlex-RL</text>
+<rect x="115" y="195" width="50" height="24" rx="4" fill="rgb(110,110,110)" fill-opacity="0.01"/>
+<text x="140" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<rect x="171" y="195" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.16"/>
+<text x="196" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.21</text>
+<rect x="227" y="195" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.09"/>
+<text x="252" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.12</text>
+<rect x="283" y="195" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.03"/>
+<text x="308" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.04</text>
+<rect x="339" y="195" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.14"/>
+<text x="364" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.19</text>
+<rect x="395" y="195" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.02"/>
+<text x="420" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.02</text>
+<rect x="451" y="195" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.02"/>
+<text x="476" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.03</text>
+<rect x="507" y="195" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.03"/>
+<text x="532" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.04</text>
+<rect x="563" y="195" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.07"/>
+<text x="588" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.10</text>
+<rect x="619" y="195" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.42"/>
+<text x="644" y="212" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.56</text>
+<line x1="8" y1="222" x2="672" y2="222" stroke="#e3e5e8" stroke-width="1"/>
+<text x="10" y="242" font-size="13" fill="#333">VoiceChat</text>
+<text x="140" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="196" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="252" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="308" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="364" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="420" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="476" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="532" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="588" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<rect x="619" y="225" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.15"/>
+<text x="644" y="242" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.20</text>
+<line x1="8" y1="252" x2="672" y2="252" stroke="#e3e5e8" stroke-width="1"/>
+<text x="10" y="272" font-size="13" fill="#333">MiniCPM-o</text>
+<text x="140" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="196" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<text x="252" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<rect x="283" y="255" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.01"/>
+<text x="308" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<text x="364" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="420" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<rect x="451" y="255" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.01"/>
+<text x="476" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.01</text>
+<text x="532" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<text x="588" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.00</text>
+<rect x="619" y="255" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.65"/>
+<text x="644" y="272" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.98</text>
+<line x1="8" y1="282" x2="672" y2="282" stroke="#e3e5e8" stroke-width="1"/>
+<text x="10" y="302" font-size="13" fill="#333">Raon</text>
+<rect x="115" y="285" width="50" height="24" rx="4" fill="rgb(110,110,110)" fill-opacity="0.31"/>
+<text x="140" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.42</text>
+<rect x="171" y="285" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.26"/>
+<text x="196" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.35</text>
+<rect x="227" y="285" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.35"/>
+<text x="252" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.47</text>
+<rect x="283" y="285" width="50" height="24" rx="4" fill="rgb(60,60,160)" fill-opacity="0.19"/>
+<text x="308" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.26</text>
+<rect x="339" y="285" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.27"/>
+<text x="364" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.36</text>
+<rect x="395" y="285" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.31"/>
+<text x="420" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.41</text>
+<rect x="451" y="285" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.28"/>
+<text x="476" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.38</text>
+<rect x="507" y="285" width="50" height="24" rx="4" fill="rgb(213,94,0)" fill-opacity="0.32"/>
+<text x="532" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.43</text>
+<rect x="563" y="285" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.24"/>
+<text x="588" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.33</text>
+<rect x="619" y="285" width="50" height="24" rx="4" fill="rgb(0,158,115)" fill-opacity="0.51"/>
+<text x="644" y="302" font-size="13" text-anchor="middle" fill="#222" style="font-variant-numeric: tabular-nums">.68</text>
+<line x1="8" y1="314" x2="672" y2="314" stroke="#333" stroke-width="1.2"/>
+</svg>
