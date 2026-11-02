@@ -62,7 +62,17 @@
 <summary>Listen, Diagnose, and Interrupt: Coupling Mispronunciation Diagnostics into a Full-Duplex Speech LLM, <em><a href="pdfs/listen-diagnose-interrupt.pdf">preprint</a></em> 2026, under review</summary>
 <div class="dbody">
 <p class="auth"><strong>L. Peng</strong>, B. Nuchged, K. Fu, Y. Yao, J. Zhang</p>
-<a class="dfig" href="assets/fig/ldi_scene.svg"><img src="assets/fig/ldi_scene.svg" alt="" loading="lazy"></a>
+<div class="fslide" data-fslide>
+  <div class="fs-view">
+    <div class="fs-track" tabindex="0" aria-label="Figures: use the arrows or scroll sideways">
+      <div class="fs-item"><video src="assets/fig/fdmdd_live_page_demo.mp4" poster="assets/fig/fdmdd_live_page_demo_poster.jpg" muted loop playsinline controls preload="metadata" data-autoplay aria-label="Screen recording of the live full-duplex tutor: as the learner reads a sentence aloud, the tutor flags a mispronounced word and starts its spoken correction while the learner is still talking"><a href="assets/fig/fdmdd_live_page_demo.mp4">Demo video</a></video></div>
+      <a class="fs-item" href="assets/fig/ldi_scene.svg"><img src="assets/fig/ldi_scene.svg" alt="Schematic: a language learner reads aloud and the tutor interrupts to correct a mispronounced word" loading="lazy"></a>
+    </div>
+    <button type="button" class="fs-btn fs-prev" aria-label="Previous figure">‹</button>
+    <button type="button" class="fs-btn fs-next" aria-label="Next figure">›</button>
+  </div>
+  <div class="fs-dots"></div>
+</div>
 <p>This full-duplex language-learning tutor feeds a WavLM detector's mispronunciation diagnosis into a frozen 11B full-duplex model (VoiceChat) through a zero-initialized residual channel. It keeps the detector's accuracy, with sentence-level F1 nearly unchanged, and works in full-duplex mode: the correction starts a median <strong>516 ms</strong> after the mispronounced word, while the learner is still talking.</p>
 <p class="dl"><a href="pdfs/listen-diagnose-interrupt.pdf">PDF</a></p>
 </div>
@@ -185,19 +195,26 @@ Array.prototype.forEach.call(document.querySelectorAll('[data-fslide]'), functio
     var i = cur();
     prev.disabled = i === 0; next.disabled = i === n - 1;
     Array.prototype.forEach.call(dots.children, function (d, k) { d.className = k === i ? 'on' : ''; });
+    var dt = s.closest('details');
+    Array.prototype.forEach.call(t.querySelectorAll('video'), function (v) {
+      if (Array.prototype.indexOf.call(t.children, v.closest('.fs-item')) === i && v.hasAttribute('data-autoplay') && (!dt || dt.open) && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        var p = v.play(); if (p && p.catch) p.catch(function () {});
+      } else v.pause();
+    });
   }
   prev.onclick = function () { go(cur() - 1); };
   next.onclick = function () { go(cur() + 1); };
   dots.onclick = function (e) { if (e.target.dataset.k) go(+e.target.dataset.k); };
   t.addEventListener('scroll', function () { clearTimeout(tm); tm = setTimeout(sync, 60); });
   t.addEventListener('keydown', function (e) {
+    if (e.target !== t) return;
     if (e.key === 'ArrowLeft') { e.preventDefault(); go(cur() - 1); }
     if (e.key === 'ArrowRight') { e.preventDefault(); go(cur() + 1); }
   });
   // always open on the first figure
   function first() { t.style.scrollBehavior = 'auto'; t.scrollLeft = 0; t.style.scrollBehavior = ''; sync(); }
   var det = s.closest('details');
-  if (det) det.addEventListener('toggle', function () { if (det.open) first(); });
+  if (det) det.addEventListener('toggle', function () { if (det.open) first(); else sync(); });
   first();
 });
 </script>
